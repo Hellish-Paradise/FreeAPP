@@ -1,0 +1,6 @@
+# 项目排除路径
+/target/*
+/src/test/*
+/src/main/resources/META-INF/*
+/.idea/*
+/FreeAPP.iml
